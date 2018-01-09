@@ -8,5 +8,6 @@ namespace Lemonade_Stand
 {
     class Sugar
     {
+        decimal sugarPrice = (.09m);
     }
 }
