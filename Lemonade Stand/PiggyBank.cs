@@ -8,6 +8,7 @@ namespace Lemonade_Stand
 {
     class PiggyBank
     {
-        
+        public decimal Savings;
+
     }
 }
