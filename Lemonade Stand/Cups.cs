@@ -9,5 +9,6 @@ namespace Lemonade_Stand
     class Cups
     {
         decimal cupPrice = (.03m);
+        public int cupCount;
     }
 }

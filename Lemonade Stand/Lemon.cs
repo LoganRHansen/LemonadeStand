@@ -9,5 +9,6 @@ namespace Lemonade_Stand
     class Lemon
     {
         decimal lemonPrice = (.06m);
+        public int lemonCount;
     }
 }

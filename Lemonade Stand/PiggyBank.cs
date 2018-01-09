@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Lemonade_Stand
 {
-    class Ice
+    class PiggyBank
     {
-        decimal icePrice = (.01m);
-        public int iceCount;
+        
     }
 }
