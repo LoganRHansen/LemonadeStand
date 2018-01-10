@@ -10,7 +10,7 @@ namespace Lemonade_Stand
     {
         public void RunGame()
         {
-            Console.WriteLine("Sorry");
+            Console.WriteLine("Welcome to Lemonade Stand! Unfortunately, in this, the year 2018 CE, a lemonade stand is no longer either viable or needed. The game was over before it began. Sorry");
 
         }
     }
