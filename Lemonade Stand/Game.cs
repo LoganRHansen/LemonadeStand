@@ -8,6 +8,10 @@ namespace Lemonade_Stand
 {
     class Game
     {
-        public void RunGame(); 
+        public void RunGame()
+        {
+            Console.WriteLine("Sorry");
+
+        }
     }
 }
